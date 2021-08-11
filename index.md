@@ -6,12 +6,10 @@ Features
 <div class="wrapper">
   <header class="header">
     <div class="container">
-      <div class="logo"><img class="ulogo" src="img/udacity_logo.png" alt="Udacity logo"></div>
       <div class="name">
-        <div class="yin">Sophie Hui Yin</div>
         <div class="ninja">Front-end Ninja</div>
       </div>
-  </div>
+    </div>
   </header>
 
   <main class="main">
