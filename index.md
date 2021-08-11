@@ -2,16 +2,7 @@
 
 Features
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Sophie Hui Yin</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" media="screen and (max-width: 449px), screen and (min-width: 450px), screen and (min-width: 800px), " href="css/style.css" type="text/css">
-</head>
 
-<body>
 <div class="wrapper">
   <header class="header">
     <div class="container">
@@ -66,5 +57,3 @@ The problem is the one-sided, limited and quite boring concept that defines most
 
 </div>
 
-</body>
-</html>
